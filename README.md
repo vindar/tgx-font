@@ -5,9 +5,10 @@ A collection of plain and anti-aliased fonts to use with the [tgx 2D/3D graphic 
 
 
 The plain fonts are encoded in `ILI9341_t3_font_t` v1 format compatible with the [ILI9341_t3](https://github.com/PaulStoffregen/ILI9341_t3) library.
+
 The antialiased fonts are in `ILI9341_t3_font_t` v2.3 format whose description can be found [here](https://github.com/projectitis/packedbdf) and supported also by the Teensy specific [ILI9341_t3n](https://github.com/KurtE/ILI9341_t3n) library. 
 
-**A preview of all the fonts is available [here](./font-list.html).**
+**A preview of all the fonts is available [here](https://vindar.github.io/tgx-font/font-list.html).**
 
 
 ## Notes
