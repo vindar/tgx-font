@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_OPENSANS_AA4_LITE_H_
-#define _ILI9341_t3_FONT_OPENSANS_AA4_LITE_H_
+#ifndef _ILI9341_t3_font_OpenSans_AA4_lite_H_
+#define _ILI9341_t3_font_OpenSans_AA4_lite_H_
 
 #include "tgx.h"
     

@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_INDIEFLOWER_H_
-#define _ILI9341_t3_FONT_INDIEFLOWER_H_
+#ifndef _ILI9341_t3_font_IndieFlower_H_
+#define _ILI9341_t3_font_IndieFlower_H_
 
 #include "tgx.h"
     

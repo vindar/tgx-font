@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_ROBOTOCONDENSED_LITE_H_
-#define _ILI9341_t3_FONT_ROBOTOCONDENSED_LITE_H_
+#ifndef _ILI9341_t3_font_RobotoCondensed_lite_H_
+#define _ILI9341_t3_font_RobotoCondensed_lite_H_
 
 #include "tgx.h"
     

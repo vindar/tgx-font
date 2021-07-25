@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_LOBSTER_LITE_H_
-#define _ILI9341_t3_FONT_LOBSTER_LITE_H_
+#ifndef _ILI9341_t3_font_Lobster_lite_H_
+#define _ILI9341_t3_font_Lobster_lite_H_
 
 #include "tgx.h"
     

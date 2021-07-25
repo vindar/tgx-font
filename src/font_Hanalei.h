@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_HANALEI_H_
-#define _ILI9341_t3_FONT_HANALEI_H_
+#ifndef _ILI9341_t3_font_Hanalei_H_
+#define _ILI9341_t3_font_Hanalei_H_
 
 #include "tgx.h"
     

@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_SHADOWSINTOLIGHT_H_
-#define _ILI9341_t3_FONT_SHADOWSINTOLIGHT_H_
+#ifndef _ILI9341_t3_font_ShadowsIntoLight_H_
+#define _ILI9341_t3_font_ShadowsIntoLight_H_
 
 #include "tgx.h"
     

@@ -1,5 +1,5 @@
-#ifndef _ILI9341_t3_FONT_TANGERINE_AA4_H_
-#define _ILI9341_t3_FONT_TANGERINE_AA4_H_
+#ifndef _ILI9341_t3_font_Tangerine_AA4_H_
+#define _ILI9341_t3_font_Tangerine_AA4_H_
 
 #include "tgx.h"
     
