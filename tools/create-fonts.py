@@ -660,12 +660,12 @@ for f in ttffiles:
     name = name.replace("_Regular","")
     listtf += [(name, f)]
 
-hstr = """
-<!DOCTYPE html>
-<html>
+hstr = """<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="utf-8"/>
+<title>tgx-font list</title>
 <style>
- 
 """
 
 for name, filename in listtf:
@@ -673,37 +673,27 @@ for name, filename in listtf:
     
 hstr += """
 
+h1 {font-size: xx-large}
 h2 {font-size: xx-large; color: green;}
-
-div 
-{
-  background-color:lightyellow;
-  border: 5px solid black;
-  padding: 5px;
-  margin: 5px;
-}
 
 </style>
 </head>
 <body>
-<h1 style="font-size: xxx-large;text-align: center">tgx-font list</h1>
+<h1 style="text-align:center">tgx-font list</h1>
 """
-
     
 for name, filename in listtf:
     hstr+=f"""
         
-<div>
+<div style="background-color:lightyellow;border: 5px solid black;padding: 5px;margin: 5px;">
 <h2>Font {name}</h2>
-<b style="font-family: {name};">
-<p style="font-size:x-large">1234567890+-/*;,!?<>#<br>abcdefghijklmnopqrstuvwxyz<br>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
-<p style="font-size:xx-large;">The quick brown fox jumps over the lazy dog</p>
-</b>
-</div>    
+<div style="font-family: {name};">
+<p style="font-size:x-large">1234567890<br>=+-/*;,.!?&lt;&gt;#~@<br>abcdefghijklmnopqrstuvwxyz<br>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+<p style="font-size:xx-large;">The quick brown fox jumps over the lazy dog.</p>
+</div></div>    
 """
 
 hstr+= """
-
 
 </body>
 </html>
